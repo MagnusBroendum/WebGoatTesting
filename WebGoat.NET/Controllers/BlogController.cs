@@ -4,6 +4,8 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System;
 
+//Testpush
+
 namespace WebGoatCore.Controllers
 {
     [Route("[controller]/[action]")]
